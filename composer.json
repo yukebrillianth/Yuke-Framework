@@ -1,0 +1,15 @@
+{
+    "name": "yukebrillianth/yukeframework",
+    "authors": [
+        {
+            "name": "yuke brilliant",
+            "email": "yukebrilliant@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4" :{
+            "app\\" : "./"
+        }
+    },
+    "require": {}
+}
